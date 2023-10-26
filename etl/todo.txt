@@ -1,0 +1,8 @@
+Extract:
+Find and extract stock data (dividend history, historical open and close, cash on hand, income, debt, expenses, etc.)
+
+Transform:
+Perform analysises and isolate desired traits (such as all attributes pertaining to dividend history) into seperate csv files
+
+Load:
+If a stock record exists in the repository/database, update the file to reflect changes on a bi-weekly basis

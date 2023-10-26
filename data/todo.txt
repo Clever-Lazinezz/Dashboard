@@ -1,0 +1,2 @@
+nasdaqu file
+bi-weekly saved stock data
